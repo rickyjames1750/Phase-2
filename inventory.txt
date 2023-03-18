@@ -1,0 +1,6 @@
+Banana,456,15
+burger,2,10
+Cheese,2,10
+Cheese burger,3,100
+Cheese,0,83886080
+cheese,0,41943040
