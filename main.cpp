@@ -8,7 +8,7 @@
 #include <vector>
 
 using namespace std;
-
+// V2
 struct InventoryRec {
 
   std::string name;
